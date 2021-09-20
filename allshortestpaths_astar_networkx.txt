@@ -1,0 +1,11 @@
+[pagai@phobos networkx_geo]$ for i in 1 2 3 4 5 6 7 8 9 10; do ./networkx_geo.py ; done
+RUNTIME allPairsShortestPath aStar (Nodes,Edges,Runtime): 79,1034,5.906
+RUNTIME allPairsShortestPath aStar (Nodes,Edges,Runtime): 79,1034,5.757
+RUNTIME allPairsShortestPath aStar (Nodes,Edges,Runtime): 79,1034,5.796
+RUNTIME allPairsShortestPath aStar (Nodes,Edges,Runtime): 79,1034,5.873
+RUNTIME allPairsShortestPath aStar (Nodes,Edges,Runtime): 79,1034,5.499
+RUNTIME allPairsShortestPath aStar (Nodes,Edges,Runtime): 79,1034,5.582
+RUNTIME allPairsShortestPath aStar (Nodes,Edges,Runtime): 79,1034,5.536
+RUNTIME allPairsShortestPath aStar (Nodes,Edges,Runtime): 79,1034,5.401
+RUNTIME allPairsShortestPath aStar (Nodes,Edges,Runtime): 79,1034,5.629
+RUNTIME allPairsShortestPath aStar (Nodes,Edges,Runtime): 79,1034,5.489

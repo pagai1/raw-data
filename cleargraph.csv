@@ -1,0 +1,5 @@
+DB,Knoten,Kanten,Zeit_NetworkX,Zeit_Neo4j_Cypher,Zeit_Neo4j_own,Zeit_Neo4j_rough
+MovieDB,29160,161009,0.082,7.221,7.112,1.581
+Kantenliste,195174,500000,0.441,17.783,17.585,1.555
+Kookkurrenz,589,7550,0.004,0.870,0.825,1.196
+Geodaten,79,1034,0.000,0.525,0.629,1.535

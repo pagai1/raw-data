@@ -1,0 +1,182 @@
+BUILDING/OPENING DATABASE... /home/pagai/graph-data/owndb01
+DONE IN 17393ms.
+BUILDING/OPENING DATABASE... /home/pagai/graph-data/owndb01
+DONE IN 3090ms.
+READ 500 ENTRIES IN 3657 ms.
+NODECOUNT: 4819
+EDGECOUNT: 16593
+LIST CONFIG: 
+relationshipQuery: null|schema: {relationships={ACTED_WITH={}}, nodes={ACTOR={}}}|sizeInBytes: 598296|memoryUsage: 584 KiB|density: 0.00246217208344525|creationTime: 2021-09-05T13:28:35.106804+02:00[Europe/Berlin]|graphName: SUBGRAPH|relationshipProjection: {ACTED_WITH={orientation=NATURAL, aggregation=DEFAULT, type=ACTED_WITH, properties={}}}|database: neo4j|nodeProjection: {ACTOR={label=ACTOR, properties={}}}|modificationTime: 2021-09-05T13:28:35.762907+02:00[Europe/Berlin]|nodeQuery: null|nodeCount: 1972|degreeDistribution: {p99=16, min=0, max=24, mean=4.852941176470588, p90=8, p50=4, p999=23, p95=8, p75=4}|relationshipCount: 9570|
+
+PAGERANK EXECUTION TOOK: 2057 ALGOTIME: 916
+BUILDING/OPENING DATABASE... /home/pagai/graph-data/owndb01
+DONE IN 2646ms.
+READ 1000 ENTRIES IN 3355 ms.
+NODECOUNT: 8394
+EDGECOUNT: 33014
+LIST CONFIG: 
+relationshipQuery: null|schema: {relationships={ACTED_WITH={}}, nodes={ACTOR={}}}|sizeInBytes: 1182672|memoryUsage: 1154 KiB|density: 0.0017374071862648493|creationTime: 2021-09-05T13:28:43.537859+02:00[Europe/Berlin]|graphName: SUBGRAPH|relationshipProjection: {ACTED_WITH={orientation=NATURAL, aggregation=DEFAULT, type=ACTED_WITH, properties={}}}|database: neo4j|nodeProjection: {ACTOR={label=ACTOR, properties={}}}|modificationTime: 2021-09-05T13:28:43.572554+02:00[Europe/Berlin]|nodeQuery: null|nodeCount: 3305|degreeDistribution: {p99=22, min=0, max=36, mean=5.740393343419062, p90=12, p50=4, p999=32, p95=15, p75=6}|relationshipCount: 18972|
+
+PAGERANK EXECUTION TOOK: 624 ALGOTIME: 417
+BUILDING/OPENING DATABASE... /home/pagai/graph-data/owndb01
+DONE IN 2623ms.
+READ 1500 ENTRIES IN 4269 ms.
+NODECOUNT: 11827
+EDGECOUNT: 48581
+LIST CONFIG: 
+relationshipQuery: null|schema: {relationships={ACTED_WITH={}}, nodes={ACTOR={}}}|sizeInBytes: 1464504|memoryUsage: 1430 KiB|density: 0.0012554303936043445|creationTime: 2021-09-05T13:28:51.565508+02:00[Europe/Berlin]|graphName: SUBGRAPH|relationshipProjection: {ACTED_WITH={orientation=NATURAL, aggregation=DEFAULT, type=ACTED_WITH, properties={}}}|database: neo4j|nodeProjection: {ACTOR={label=ACTOR, properties={}}}|modificationTime: 2021-09-05T13:28:51.611075+02:00[Europe/Berlin]|nodeQuery: null|nodeCount: 4714|degreeDistribution: {p99=24, min=0, max=40, mean=5.916843445057276, p90=12, p50=4, p999=36, p95=16, p75=6}|relationshipCount: 27892|
+
+PAGERANK EXECUTION TOOK: 644 ALGOTIME: 450
+BUILDING/OPENING DATABASE... /home/pagai/graph-data/owndb01
+DONE IN 2495ms.
+READ 2000 ENTRIES IN 4991 ms.
+NODECOUNT: 14895
+EDGECOUNT: 65075
+LIST CONFIG: 
+relationshipQuery: null|schema: {relationships={ACTED_WITH={}}, nodes={ACTOR={}}}|sizeInBytes: 1744128|memoryUsage: 1703 KiB|density: 0.0010900463030275003|creationTime: 2021-09-05T13:29:00.306913+02:00[Europe/Berlin]|graphName: SUBGRAPH|relationshipProjection: {ACTED_WITH={orientation=NATURAL, aggregation=DEFAULT, type=ACTED_WITH, properties={}}}|database: neo4j|nodeProjection: {ACTOR={label=ACTOR, properties={}}}|modificationTime: 2021-09-05T13:29:00.365863+02:00[Europe/Berlin]|nodeQuery: null|nodeCount: 5853|degreeDistribution: {p99=32, min=0, max=52, mean=6.378950965316932, p90=12, p50=4, p999=44, p95=19, p75=8}|relationshipCount: 37336|
+
+PAGERANK EXECUTION TOOK: 602 ALGOTIME: 390
+BUILDING/OPENING DATABASE... /home/pagai/graph-data/owndb01
+DONE IN 2506ms.
+READ 2500 ENTRIES IN 6086 ms.
+NODECOUNT: 17668
+EDGECOUNT: 81209
+LIST CONFIG: 
+relationshipQuery: null|schema: {relationships={ACTED_WITH={}}, nodes={ACTOR={}}}|sizeInBytes: 2055808|memoryUsage: 2007 KiB|density: 9.77037209761549E-4|creationTime: 2021-09-05T13:29:10.003674+02:00[Europe/Berlin]|graphName: SUBGRAPH|relationshipProjection: {ACTED_WITH={orientation=NATURAL, aggregation=DEFAULT, type=ACTED_WITH, properties={}}}|database: neo4j|nodeProjection: {ACTOR={label=ACTOR, properties={}}}|modificationTime: 2021-09-05T13:29:10.040043+02:00[Europe/Berlin]|nodeQuery: null|nodeCount: 6900|degreeDistribution: {p99=36, min=0, max=60, mean=6.740579710144927, p90=12, p50=4, p999=48, p95=20, p75=8}|relationshipCount: 46510|
+
+PAGERANK EXECUTION TOOK: 631 ALGOTIME: 481
+BUILDING/OPENING DATABASE... /home/pagai/graph-data/owndb01
+DONE IN 2633ms.
+READ 3000 ENTRIES IN 7794 ms.
+NODECOUNT: 20106
+EDGECOUNT: 98356
+LIST CONFIG: 
+relationshipQuery: null|schema: {relationships={ACTED_WITH={}}, nodes={ACTOR={}}}|sizeInBytes: 2332344|memoryUsage: 2277 KiB|density: 9.571268612680265E-4|creationTime: 2021-09-05T13:29:21.699907+02:00[Europe/Berlin]|graphName: SUBGRAPH|relationshipProjection: {ACTED_WITH={orientation=NATURAL, aggregation=DEFAULT, type=ACTED_WITH, properties={}}}|database: neo4j|nodeProjection: {ACTOR={label=ACTOR, properties={}}}|modificationTime: 2021-09-05T13:29:21.751246+02:00[Europe/Berlin]|nodeQuery: null|nodeCount: 7659|degreeDistribution: {p99=43, min=0, max=68, mean=7.329677503590547, p90=16, p50=4, p999=56, p95=24, p75=8}|relationshipCount: 56138|
+
+PAGERANK EXECUTION TOOK: 645 ALGOTIME: 473
+BUILDING/OPENING DATABASE... /home/pagai/graph-data/owndb01
+DONE IN 2486ms.
+READ 3500 ENTRIES IN 8887 ms.
+NODECOUNT: 22467
+EDGECOUNT: 114781
+LIST CONFIG: 
+relationshipQuery: null|schema: {relationships={ACTED_WITH={}}, nodes={ACTOR={}}}|sizeInBytes: 2609872|memoryUsage: 2548 KiB|density: 8.990394230913549E-4|creationTime: 2021-09-05T13:29:34.306179+02:00[Europe/Berlin]|graphName: SUBGRAPH|relationshipProjection: {ACTED_WITH={orientation=NATURAL, aggregation=DEFAULT, type=ACTED_WITH, properties={}}}|database: neo4j|nodeProjection: {ACTOR={label=ACTOR, properties={}}}|modificationTime: 2021-09-05T13:29:34.348766+02:00[Europe/Berlin]|nodeQuery: null|nodeCount: 8538|degreeDistribution: {p99=48, min=0, max=76, mean=7.675099554930897, p90=16, p50=4, p999=68, p95=24, p75=8}|relationshipCount: 65530|
+
+PAGERANK EXECUTION TOOK: 635 ALGOTIME: 487
+BUILDING/OPENING DATABASE... /home/pagai/graph-data/owndb01
+DONE IN 2706ms.
+READ 4000 ENTRIES IN 10156 ms.
+NODECOUNT: 24799
+EDGECOUNT: 130857
+LIST CONFIG: 
+relationshipQuery: null|schema: {relationships={ACTED_WITH={}}, nodes={ACTOR={}}}|sizeInBytes: 2887448|memoryUsage: 2819 KiB|density: 8.41374111352366E-4|creationTime: 2021-09-05T13:29:48.409289+02:00[Europe/Berlin]|graphName: SUBGRAPH|relationshipProjection: {ACTED_WITH={orientation=NATURAL, aggregation=DEFAULT, type=ACTED_WITH, properties={}}}|database: neo4j|nodeProjection: {ACTOR={label=ACTOR, properties={}}}|modificationTime: 2021-09-05T13:29:48.470518+02:00[Europe/Berlin]|nodeQuery: null|nodeCount: 9424|degreeDistribution: {p99=52, min=0, max=92, mean=7.9282682512733444, p90=16, p50=4, p999=72, p95=28, p75=8}|relationshipCount: 74716|
+
+PAGERANK EXECUTION TOOK: 707 ALGOTIME: 522
+BUILDING/OPENING DATABASE... /home/pagai/graph-data/owndb01
+DONE IN 2608ms.
+READ 4500 ENTRIES IN 11779 ms.
+NODECOUNT: 26862
+EDGECOUNT: 148093
+LIST CONFIG: 
+relationshipQuery: null|schema: {relationships={ACTED_WITH={}}, nodes={ACTOR={}}}|sizeInBytes: 2925680|memoryUsage: 2857 KiB|density: 8.286642460328091E-4|creationTime: 2021-09-05T13:30:04.123759+02:00[Europe/Berlin]|graphName: SUBGRAPH|relationshipProjection: {ACTED_WITH={orientation=NATURAL, aggregation=DEFAULT, type=ACTED_WITH, properties={}}}|database: neo4j|nodeProjection: {ACTOR={label=ACTOR, properties={}}}|modificationTime: 2021-09-05T13:30:04.168920+02:00[Europe/Berlin]|nodeQuery: null|nodeCount: 10095|degreeDistribution: {p99=57, min=0, max=108, mean=8.364536899455176, p90=19, p50=4, p999=85, p95=28, p75=8}|relationshipCount: 84440|
+
+PAGERANK EXECUTION TOOK: 1906 ALGOTIME: 765
+BUILDING/OPENING DATABASE... /home/pagai/graph-data/owndb01
+DONE IN 2504ms.
+READ 5000 ENTRIES IN 13216 ms.
+NODECOUNT: 29226
+EDGECOUNT: 163668
+LIST CONFIG: 
+relationshipQuery: null|schema: {relationships={ACTED_WITH={}}, nodes={ACTOR={}}}|sizeInBytes: 3203664|memoryUsage: 3128 KiB|density: 7.689609532669456E-4|creationTime: 2021-09-05T13:30:22.401182+02:00[Europe/Berlin]|graphName: SUBGRAPH|relationshipProjection: {ACTED_WITH={orientation=NATURAL, aggregation=DEFAULT, type=ACTED_WITH, properties={}}}|database: neo4j|nodeProjection: {ACTOR={label=ACTOR, properties={}}}|modificationTime: 2021-09-05T13:30:22.521355+02:00[Europe/Berlin]|nodeQuery: null|nodeCount: 11030|degreeDistribution: {p99=60, min=0, max=120, mean=8.480870353581142, p90=20, p50=4, p999=91, p95=31, p75=8}|relationshipCount: 93544|
+
+PAGERANK EXECUTION TOOK: 1915 ALGOTIME: 701
+BUILDING/OPENING DATABASE... /home/pagai/graph-data/owndb01
+DONE IN 2703ms.
+READ 5500 ENTRIES IN 15243 ms.
+NODECOUNT: 30951
+EDGECOUNT: 180801
+LIST CONFIG: 
+relationshipQuery: null|schema: {relationships={ACTED_WITH={}}, nodes={ACTOR={}}}|sizeInBytes: 3478760|memoryUsage: 3397 KiB|density: 7.657965546527455E-4|creationTime: 2021-09-05T13:30:42.934239+02:00[Europe/Berlin]|graphName: SUBGRAPH|relationshipProjection: {ACTED_WITH={orientation=NATURAL, aggregation=DEFAULT, type=ACTED_WITH, properties={}}}|database: neo4j|nodeProjection: {ACTOR={label=ACTOR, properties={}}}|modificationTime: 2021-09-05T13:30:42.974361+02:00[Europe/Berlin]|nodeQuery: null|nodeCount: 11612|degreeDistribution: {p99=68, min=0, max=132, mean=8.891663796073027, p90=20, p50=4, p999=100, p95=32, p75=8}|relationshipCount: 103250|
+
+PAGERANK EXECUTION TOOK: 688 ALGOTIME: 561
+BUILDING/OPENING DATABASE... /home/pagai/graph-data/owndb01
+DONE IN 2606ms.
+READ 6000 ENTRIES IN 16326 ms.
+NODECOUNT: 33076
+EDGECOUNT: 196944
+LIST CONFIG: 
+relationshipQuery: null|schema: {relationships={ACTED_WITH={}}, nodes={ACTOR={}}}|sizeInBytes: 3755536|memoryUsage: 3667 KiB|density: 7.338026233079432E-4|creationTime: 2021-09-05T13:31:03.260323+02:00[Europe/Berlin]|graphName: SUBGRAPH|relationshipProjection: {ACTED_WITH={orientation=NATURAL, aggregation=DEFAULT, type=ACTED_WITH, properties={}}}|database: neo4j|nodeProjection: {ACTOR={label=ACTOR, properties={}}}|modificationTime: 2021-09-05T13:31:03.355442+02:00[Europe/Berlin]|nodeQuery: null|nodeCount: 12398|degreeDistribution: {p99=71, min=0, max=140, mean=9.096951121148573, p90=20, p50=4, p999=107, p95=35, p75=8}|relationshipCount: 112784|
+
+PAGERANK EXECUTION TOOK: 843 ALGOTIME: 648
+BUILDING/OPENING DATABASE... /home/pagai/graph-data/owndb01
+DONE IN 2458ms.
+READ 6500 ENTRIES IN 17674 ms.
+NODECOUNT: 35178
+EDGECOUNT: 213567
+LIST CONFIG: 
+relationshipQuery: null|schema: {relationships={ACTED_WITH={}}, nodes={ACTOR={}}}|sizeInBytes: 3795032|memoryUsage: 3706 KiB|density: 6.990697385657605E-4|creationTime: 2021-09-05T13:31:25.005619+02:00[Europe/Berlin]|graphName: SUBGRAPH|relationshipProjection: {ACTED_WITH={orientation=NATURAL, aggregation=DEFAULT, type=ACTED_WITH, properties={}}}|database: neo4j|nodeProjection: {ACTOR={label=ACTOR, properties={}}}|modificationTime: 2021-09-05T13:31:25.202841+02:00[Europe/Berlin]|nodeQuery: null|nodeCount: 13224|degreeDistribution: {p99=76, min=0, max=156, mean=9.243799153055052, p90=20, p50=4, p999=111, p95=36, p75=8}|relationshipCount: 122240|
+
+PAGERANK EXECUTION TOOK: 1044 ALGOTIME: 735
+BUILDING/OPENING DATABASE... /home/pagai/graph-data/owndb01
+DONE IN 2383ms.
+READ 7000 ENTRIES IN 19037 ms.
+NODECOUNT: 36977
+EDGECOUNT: 230427
+LIST CONFIG: 
+relationshipQuery: null|schema: {relationships={ACTED_WITH={}}, nodes={ACTOR={}}}|sizeInBytes: 4070544|memoryUsage: 3975 KiB|density: 6.860219887031525E-4|creationTime: 2021-09-05T13:31:48.278452+02:00[Europe/Berlin]|graphName: SUBGRAPH|relationshipProjection: {ACTED_WITH={orientation=NATURAL, aggregation=DEFAULT, type=ACTED_WITH, properties={}}}|database: neo4j|nodeProjection: {ACTOR={label=ACTOR, properties={}}}|modificationTime: 2021-09-05T13:31:48.330074+02:00[Europe/Berlin]|nodeQuery: null|nodeCount: 13857|degreeDistribution: {p99=80, min=0, max=172, mean=9.505520675470882, p90=20, p50=4, p999=119, p95=36, p75=8}|relationshipCount: 131718|
+
+PAGERANK EXECUTION TOOK: 867 ALGOTIME: 734
+BUILDING/OPENING DATABASE... /home/pagai/graph-data/owndb01
+DONE IN 2338ms.
+READ 7500 ENTRIES IN 21192 ms.
+NODECOUNT: 38792
+EDGECOUNT: 247739
+LIST CONFIG: 
+relationshipQuery: null|schema: {relationships={ACTED_WITH={}}, nodes={ACTOR={}}}|sizeInBytes: 4346512|memoryUsage: 4244 KiB|density: 6.690451070823922E-4|creationTime: 2021-09-05T13:32:13.449065+02:00[Europe/Berlin]|graphName: SUBGRAPH|relationshipProjection: {ACTED_WITH={orientation=NATURAL, aggregation=DEFAULT, type=ACTED_WITH, properties={}}}|database: neo4j|nodeProjection: {ACTOR={label=ACTOR, properties={}}}|modificationTime: 2021-09-05T13:32:13.501976+02:00[Europe/Berlin]|nodeQuery: null|nodeCount: 14544|degreeDistribution: {p99=84, min=0, max=183, mean=9.72992299229923, p90=20, p50=4, p999=125, p95=36, p75=8}|relationshipCount: 141512|
+
+PAGERANK EXECUTION TOOK: 929 ALGOTIME: 795
+BUILDING/OPENING DATABASE... /home/pagai/graph-data/owndb01
+DONE IN 2418ms.
+READ 8000 ENTRIES IN 22712 ms.
+NODECOUNT: 40775
+EDGECOUNT: 264367
+LIST CONFIG: 
+relationshipQuery: null|schema: {relationships={ACTED_WITH={}}, nodes={ACTOR={}}}|sizeInBytes: 4623608|memoryUsage: 4515 KiB|density: 6.39216500253518E-4|creationTime: 2021-09-05T13:32:40.383024+02:00[Europe/Berlin]|graphName: SUBGRAPH|relationshipProjection: {ACTED_WITH={orientation=NATURAL, aggregation=DEFAULT, type=ACTED_WITH, properties={}}}|database: neo4j|nodeProjection: {ACTOR={label=ACTOR, properties={}}}|modificationTime: 2021-09-05T13:32:40.454716+02:00[Europe/Berlin]|nodeQuery: null|nodeCount: 15372|degreeDistribution: {p99=85, min=0, max=191, mean=9.825396825396826, p90=20, p50=4, p999=128, p95=36, p75=8}|relationshipCount: 151036|
+
+PAGERANK EXECUTION TOOK: 892 ALGOTIME: 734
+BUILDING/OPENING DATABASE... /home/pagai/graph-data/owndb01
+DONE IN 2469ms.
+READ 8500 ENTRIES IN 23772 ms.
+NODECOUNT: 42471
+EDGECOUNT: 281590
+LIST CONFIG: 
+relationshipQuery: null|schema: {relationships={ACTED_WITH={}}, nodes={ACTOR={}}}|sizeInBytes: 4628592|memoryUsage: 4520 KiB|density: 6.295551103183258E-4|creationTime: 2021-09-05T13:33:08.379029+02:00[Europe/Berlin]|graphName: SUBGRAPH|relationshipProjection: {ACTED_WITH={orientation=NATURAL, aggregation=DEFAULT, type=ACTED_WITH, properties={}}}|database: neo4j|nodeProjection: {ACTOR={label=ACTOR, properties={}}}|modificationTime: 2021-09-05T13:33:08.430886+02:00[Europe/Berlin]|nodeQuery: null|nodeCount: 15985|degreeDistribution: {p99=92, min=0, max=223, mean=10.06280888332812, p90=20, p50=4, p999=140, p95=36, p75=8}|relationshipCount: 160854|
+
+PAGERANK EXECUTION TOOK: 970 ALGOTIME: 838
+BUILDING/OPENING DATABASE... /home/pagai/graph-data/owndb01
+DONE IN 2359ms.
+READ 9000 ENTRIES IN 25671 ms.
+NODECOUNT: 43973
+EDGECOUNT: 298595
+LIST CONFIG: 
+relationshipQuery: null|schema: {relationships={ACTED_WITH={}}, nodes={ACTOR={}}}|sizeInBytes: 4935728|memoryUsage: 4820 KiB|density: 6.284512189976817E-4|creationTime: 2021-09-05T13:33:38.326290+02:00[Europe/Berlin]|graphName: SUBGRAPH|relationshipProjection: {ACTED_WITH={orientation=NATURAL, aggregation=DEFAULT, type=ACTED_WITH, properties={}}}|database: neo4j|nodeProjection: {ACTOR={label=ACTOR, properties={}}}|modificationTime: 2021-09-05T13:33:38.385186+02:00[Europe/Berlin]|nodeQuery: null|nodeCount: 16473|degreeDistribution: {p99=96, min=0, max=247, mean=10.351848479329812, p90=20, p50=4, p999=152, p95=40, p75=8}|relationshipCount: 170526|
+
+PAGERANK EXECUTION TOOK: 989 ALGOTIME: 842
+BUILDING/OPENING DATABASE... /home/pagai/graph-data/owndb01
+DONE IN 2418ms.
+READ 9500 ENTRIES IN 26815 ms.
+NODECOUNT: 45514
+EDGECOUNT: 315732
+LIST CONFIG: 
+relationshipQuery: null|schema: {relationships={ACTED_WITH={}}, nodes={ACTOR={}}}|sizeInBytes: 4940104|memoryUsage: 4824 KiB|density: 6.233501308533532E-4|creationTime: 2021-09-05T13:34:09.405953+02:00[Europe/Berlin]|graphName: SUBGRAPH|relationshipProjection: {ACTED_WITH={orientation=NATURAL, aggregation=DEFAULT, type=ACTED_WITH, properties={}}}|database: neo4j|nodeProjection: {ACTOR={label=ACTOR, properties={}}}|modificationTime: 2021-09-05T13:34:09.479636+02:00[Europe/Berlin]|nodeQuery: null|nodeCount: 17012|degreeDistribution: {p99=100, min=0, max=255, mean=10.60380907594639, p90=23, p50=4, p999=160, p95=40, p75=8}|relationshipCount: 180392|
+
+PAGERANK EXECUTION TOOK: 1099 ALGOTIME: 947
+BUILDING/OPENING DATABASE... /home/pagai/graph-data/owndb01
+DONE IN 2347ms.
+READ 10000 ENTRIES IN 29052 ms.
+NODECOUNT: 47607
+EDGECOUNT: 332565
+LIST CONFIG: 
+relationshipQuery: null|schema: {relationships={ACTED_WITH={}}, nodes={ACTOR={}}}|sizeInBytes: 5217824|memoryUsage: 5095 KiB|density: 5.92278580390093E-4|creationTime: 2021-09-05T13:34:42.796829+02:00[Europe/Berlin]|graphName: SUBGRAPH|relationshipProjection: {ACTED_WITH={orientation=NATURAL, aggregation=DEFAULT, type=ACTED_WITH, properties={}}}|database: neo4j|nodeProjection: {ACTOR={label=ACTOR, properties={}}}|modificationTime: 2021-09-05T13:34:42.875878+02:00[Europe/Berlin]|nodeQuery: null|nodeCount: 17917|degreeDistribution: {p99=100, min=0, max=255, mean=10.611263046268906, p90=21, p50=4, p999=163, p95=40, p75=8}|relationshipCount: 190122|
+
+PAGERANK EXECUTION TOOK: 1057 ALGOTIME: 905
